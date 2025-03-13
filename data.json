@@ -1,0 +1,12 @@
+{
+    "testdb": {
+        "testtable": [
+            "id",
+            "name"
+        ],
+        "testtable1": [
+            "id",
+            "name1"
+        ]
+    }
+}
