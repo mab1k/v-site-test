@@ -1,0 +1,8 @@
+{
+    "config_file": "data.json",
+    "name_base": "testdb",
+    "user": "postgres",
+    "password": "postgres",
+    "host": "localhost",
+    "port": "5433"
+}
